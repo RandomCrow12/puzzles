@@ -3,7 +3,9 @@ Random solutions to kattis, leetcode, etc. puzzles that I remember to post or I 
 
 # Accounts:
 Kattis: https://open.kattis.com/users/randomcrow
-Leetcode: 
+
+Leetcode: https://leetcode.com/u/eshaw463/
+
 Advent of Code:
 
 # Info:
